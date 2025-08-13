@@ -1,0 +1,1 @@
+Embedded C project for ATmega328P that reads a temperature sensor via ADC, displays live readings on an I²C OLED, streams values over UART/serial, and flashes a red LED when a configurable high-temperature threshold is exceeded — with a button to toggle Celsius ↔ Fahrenheit.
